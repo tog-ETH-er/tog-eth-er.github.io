@@ -1,2 +1,3 @@
-# tog-ETH-er
-public website for togETHer
+# tog-ETH-er website
+
+Please visit https://tog-eth-er.github.io/

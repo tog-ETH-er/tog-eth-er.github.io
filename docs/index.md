@@ -3,12 +3,12 @@
 [togETHer](https://tog-eth-er.github.io/) is started by multiple ethereum communities as following (order by alphabet):
 
 - [BTCU 高校区块链社区](https://space.bilibili.com/477534964/)
-- [DAO Squre](https://www.daosquare.io/)
-- [DWeb Shanghai]()
-- [ETH 2.0 Staking Chinese Community]()
+- [DAO Square](https://www.daosquare.io/)
+- DWeb Shanghai
+- ETH 2.0 Staking Chinese Community
 - [Eth Fans](https://ethfans.org/)
 - [Ethereum CN](https://ethereum.cn/)
-- [ETH Hangzhou]()
+- ETH Hangzhou Meetup
 - [ETH Planet](https://www.ethplanet.org/)
 - [Hiblock.net](https://www.hiblock.net/)
 - 上海前沿技术讨论会

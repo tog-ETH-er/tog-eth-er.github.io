@@ -15,6 +15,6 @@
 - ETH Hangzhou Meetup
 - [ETH Planet](https://www.ethplanet.org/)
 - [Hiblock.net](https://www.hiblock.net/)
-- 上海前沿技术讨论会
+- [原语里弄](https://www.primitiveslane.org/)
 
 我们欢迎更多以太坊的社区加入。可以通过[issue](https://github.com/tog-ETH-er/tog-eth-er.github.io/issues)提交。

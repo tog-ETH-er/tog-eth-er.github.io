@@ -53,8 +53,10 @@
   .member-photo {
     overflow: hidden;
     position: relative;
+    margin: 0 auto;
     img {
       transition: all 0.6s ease 0s;
+      
     }
   }
 }

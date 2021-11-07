@@ -626,11 +626,17 @@ a:focus, a:hover {
 
 .hero-area .block h2 {
   font-size: 48px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
   margin-bottom: 20px;
 }
 
 .hero-area .block p {
   color: #707d8f;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
   margin-bottom: 20px;
 }
 
@@ -1230,6 +1236,7 @@ a:focus, a:hover {
 .team-member {
   background: #fff;
   margin-bottom: 15px;
+  height: 570px;
 }
 
 .team-member:hover img {
@@ -1260,11 +1267,16 @@ a:focus, a:hover {
   color: #777;
   margin-top: 10px;
   padding: 0 15px;
+  height: 250px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+
+  overflow: hidden;
 }
 
 .team-member .member-content ul {
   text-align: center;
-  position: relative;
+  position:relative;
 }
 
 .team-member .member-content ul li {
@@ -1291,9 +1303,11 @@ a:focus, a:hover {
 .team-member .member-photo {
   overflow: hidden;
   position: relative;
+  height: 200px;
 }
 
 .team-member .member-photo img {
+  position:sticky; 
   transition: all 0.6s ease 0s;
 }
 
@@ -1341,6 +1355,23 @@ a:focus, a:hover {
   border-radius: 100%;
   width: 90px;
   height: auto;
+}
+
+.joinus{
+  background-color:#FFFFFF; 
+  width:50%; 
+  margin-left:25%; 
+  height: 300px;
+  text-align: center;
+}
+
+.joinus .joinuscontent{
+  padding: 60px 30px 0 30px;
+}
+
+.joinus .joinuscontent p{
+  font-family: Roboto;
+  font-style: normal;
 }
 
 /*=================================================================

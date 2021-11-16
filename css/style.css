@@ -530,6 +530,13 @@ a:focus, a:hover {
   padding: 0;
 }
 
+.lang-btn {
+  background-color: #1f2532;
+  color:#bdbdbd;
+  border:0px solid;
+}
+
+
 .navigation .dropdown:hover .dropdown-menu {
   visibility: visible;
   opacity: 1;

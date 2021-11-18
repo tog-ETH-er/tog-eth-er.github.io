@@ -535,6 +535,10 @@ a:focus, a:hover {
   color:#bdbdbd;
   border:0px solid;
 }
+.lang-btn:active {
+  color:#db3d3d;
+  /* border:10px; */
+}
 
 
 .navigation .dropdown:hover .dropdown-menu {
@@ -1374,11 +1378,15 @@ a:focus, a:hover {
 
 .joinus .joinuscontent{
   padding: 60px 30px 0 30px;
+  font-size: 22px; 
+  color: #1B1B1B;
 }
 
 .joinus .joinuscontent p{
   font-family: Roboto;
   font-style: normal;
+  font-size: 22px; 
+  color: #1B1B1B;
 }
 
 /*=================================================================

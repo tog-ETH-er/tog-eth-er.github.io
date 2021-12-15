@@ -1281,7 +1281,7 @@ a:focus, a:hover {
   height: 250px;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-
+  font-size: 10px;
   overflow: hidden;
 }
 

@@ -19,6 +19,8 @@ var translations = {
     'Pan':'Zhixiong Pan',
     'introPan':'ChainNews | Director of Research Observer of Ethereum/Layer2/Web3/DeFi.',
     'introdapplearning':'Dapp-Learing Project is suitable for developers with certain programming language foundation to start blockchain Dapp development. It allows developers to understand and develop various projects like Defi, NFT, DAO and CRYPTO from a lower level to the higher level step by step.  The vision of the project is not only to provide junior developers an executable and simple learning roadmap for blockchain Dapp development, but to give advanced developers a platform to communicate and collaborate.',
+    'planckerDAO':"	PlanckerDAO is a group of Engineers, Researchers, and PMs from Asia who long to build the Ethereum eco in Great China.",
+    
     'events':'Events',
     'introevents':'Highlight moments of togETHer',
     'Hangzhou':'Hangzhou',
@@ -55,6 +57,7 @@ var translations = {
     'Pan':'潘致雄',
     'introPan':'链闻 | 研究总监关注以太坊生态、Layer2、泛Web3和DeFi应用等领域。',
     'introdapplearning':'Dapp-Learing项目适合有一定语言基础的开发者入门区块链 DAPP 开发，由浅到深了解和开发 DeFi, NFT, DAO, CRYPTO 项目。项目愿景是给初级开发者一个可执行且最简的区块链 Dapp 学习路线图，给进阶开发者一个可以交流和协作的平台。',
+    'planckerDAO':"PlanckerDAO是一个以太坊建设者的社区，我们为开发者，产品工程师, 研究员提供社区和资源一起进行Ethereum生态共创。我们贡献自己的建设力量，用区块链建设更美好的社会。",
     'events':'往期活动',
     'introevents':'togETHer的活动留影',
     'Hangzhou':'杭州',
